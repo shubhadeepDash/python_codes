@@ -1,0 +1,2 @@
+This file contains the information of new employees
+Employee_ID:20BCSB39		Employee_Name:YASH		Employee_DOJ:20/03/2021		Employee_Designation:SDE II		Employee_Salary:2000000

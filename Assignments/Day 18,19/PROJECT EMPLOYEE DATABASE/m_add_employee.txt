@@ -1,0 +1,4 @@
+This file contains the information of new employees
+Employee_ID:20BCSB39		Employee_Name:YASH		Employee_DOJ:20/03/2021		Employee_Designation:SDE II		Employee_Salary:2000000
+Employee_ID:20QWED44		Employee_Name:RAJESH		Employee_DOJ:03/06/2021		Employee_Designation:PROJECT ENGINEER		Employee_Salary:0
+Employee_ID:20GDBH53		Employee_Name:AKSHAT KUMAR		Employee_DOJ:20/02/2021		Employee_Designation:WEB DEVELOPMENT		Employee_Salary:0
